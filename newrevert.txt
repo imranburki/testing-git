@@ -1,2 +1,1 @@
-this is new revert file
-this is second line of newrevert file 
+this is new revert file 
