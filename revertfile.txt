@@ -1,1 +1,6 @@
 this is new file for git revert command
+this is second line
+this is thrid line
+and 
+so 
+on 
